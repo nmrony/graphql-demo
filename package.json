@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Nur Rony <pro.nmrony@gmail.com> (http://www.nmrony.info/)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-graphql": "^0.4.9",
+    "graphql": "^0.4.18"
+  }
 }
